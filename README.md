@@ -17,3 +17,5 @@ You can access my solutions below:
 - [x] [Day 3 : Leetcode 944. Delete Columns to Make Sorted](https://github.com/AkhileshPokale-IND/Leetcode-JAN_2023/tree/main/Solutions/Day%203)
 
 - [x] [Day 4 : Leetcode 2244. Minuimum Rounds to Complete All Tasks](https://github.com/AkhileshPokale-IND/Leetcode-JAN_2023/tree/main/Solutions/Day%204)
+
+- [x] [Day 23 : Leetcode 997. Find the Town Judge](https://github.com/AkhileshPokale-IND/Leetcode-JAN_2023/tree/main/Solutions/Day%2023)
